@@ -1,20 +1,7 @@
-/* img {
-  height: 500px;
-  width: 500px;
-} */
-
 * {
   margin: 0;
   padding: 0;
   border: 0;
-}
-
-area {
-  border: 1px red solid;
-}
-
-.hello {
-  background-color: red;
 }
 
 #temp {
@@ -23,4 +10,10 @@ area {
   width: 200px;
   color: red;
   position: absolute;
+}
+
+#temp p {
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
